@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: get-started/faq.html 
+keywords: reports faq, frequently asked questions 
+summary: Estas preguntas frecuentes pueden ser de ayuda si solo está buscando una respuesta rápida a una pregunta. 
+---
+= Preguntas frecuentes en los informes de migración de BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Estas preguntas frecuentes pueden ser de ayuda si solo está buscando una respuesta rápida a una pregunta.
+
+
+
+== Acceso al servicio de informes de migración de BlueXP
+
+*¿Cuál es la URL del servicio de informes de migración de BlueXP?*
+
+Para la URL, en un navegador, introduzca: https://console.bluexp.netapp.com/["https://console.bluexp.netapp.com/"^] Para acceder a la consola BlueXP.
+
+* ¿Cómo configuras los informes de migración de BlueXP?*
+
+El servicio de informes de migración de BlueXP no requiere ninguna configuración. La opción de informes de migración de BlueXP se habilita automáticamente en la navegación izquierda de BlueXP.
+
+*Necesito un broker de datos?*
+
+En la copia y sincronización de BlueXP (Cloud Sync), es posible que necesites un agente de datos. Sin embargo, el servicio de informes de migración de BlueXP no requiere un agente de datos.
+
+
+
+== Licencia
+
+*Necesitas una licencia para usar los informes de migración de BlueXP?*
+
+No se requiere un archivo de licencia de NetApp (NLF).

@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: use/report-create.html 
+keywords: BlueXP migration reports, volume reports 
+summary: Con el servicio de informes de migración de BlueXP, puedes identificar rápidamente el número de archivos, directorios, enlaces simbólicos, enlaces duros, profundidad y amplitud de los árboles de sistemas de archivos, los archivos más grandes, etc. en tu entorno de almacenamiento. 
+---
+= Cree un informe
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Puede crear un informe de volúmenes que muestre el número de archivos, los archivos en directorios, los enlaces simbólicos, los enlaces duros, los tamaños de archivo más grandes, y mucho más.
+
+Cada vez que creas un informe, el servicio de informes de migración de BlueXP escanea la ruta y compila los datos. Con la misma definición de informe, puede tener varias instancias de ese informe.
+
+El servicio de informes de migración de BlueXP muestra los datos por volúmenes.
+
+Sólo puede generar un informe cada vez.
+
+También puede descargar el informe como un archivo PDF.
+
+
+TIP: Todas las operaciones de los informes de migración de BlueXP se enumeran en la línea de tiempo de BlueXP. Para ver la línea de tiempo, selecciona BlueXP *Configuración* > *Línea de tiempo*.
+
+.Pasos
+. En la navegación izquierda de BlueXP, selecciona *Almacenamiento* > *Informes de migración*.
+. Selecciona *Crear nuevo informe*.
+. Introduzca un nombre de informe.
+. Seleccione un entorno de trabajo de la lista desplegable.
++
+Solo los entornos activos y habilitados en BlueXP aparecen en la lista de entornos de trabajo.
+
++
+
+TIP: Para poder acceder a los datos, el conector BlueXP debe tener acceso a la LIF de datos del volumen.
+
++
+Si desea activar un entorno, consulte https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html#when-a-connector-is-required["Obtén más información sobre los conectores en la documentación de BlueXP"].
+
+. Usando el icono *Search*, busca el volumen sobre el que informar o elige de la lista.
+. Seleccione el volumen.
+. Selecciona *Crear informe*.
++
+El servicio de informes de migración de BlueXP genera el informe y lo enumera en la lista de informes.
+
+. Para mostrar el informe, seleccione la opción *Acciones* ... A la derecha y seleccione *Ver informe*.
+. Para descargar un archivo PDF del informe, seleccione la opción *Acciones* ... Y seleccione *Descargar informe*.
+. Para generar otra instancia del mismo informe, seleccione la fila del informe y, a la derecha, seleccione *Añadir informe*.
+

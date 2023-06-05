@@ -1,0 +1,15 @@
+---
+layout: landing-page 
+sidebar: sidebar 
+permalink: index.html 
+summary: Cuando se está preparando para mover, migrar o clonar datos del sistema de archivos, primero tiene que determinar los que tiene. Con el servicio de informes de migración de BlueXP, puedes identificar rápidamente el número de archivos, directorios, enlaces simbólicos, enlaces duros, profundidad y amplitud de los árboles de sistemas de archivos, los archivos más grandes, etc. en tu entorno de almacenamiento.  
+---
+= Informes de migración de BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

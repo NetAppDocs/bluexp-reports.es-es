@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: use/report-notifications.html 
+keywords: BlueXP migration reports, volume reports 
+summary: Con el servicio de informes de migración de BlueXP, puedes configurar notificaciones para que te avisen cuando se genere un nuevo informe. 
+---
+= Activar notificaciones de informes
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Con el servicio de informes de migración de BlueXP, aparece una notificación en las notificaciones de BlueXP en la parte superior derecha de la página de BlueXP.
+
+También puede configurar notificaciones para alertar a los usuarios por correo electrónico cuando se genere un nuevo informe. Para ello, debe seleccionar la configuración de notificación de información.
+
+.Pasos
+. En la navegación izquierda de BlueXP, selecciona *Almacenamiento* > *Canvas*.
+. Para ver las notificaciones, selecciona el icono de notificaciones *Bell* en la parte superior derecha.
+. Para activar una notificación por correo electrónico, haga lo siguiente:
++
+.. Selecciona la *Configuración* ... A la derecha y selecciona *Alertas y Configuración de notificaciones*.
+.. Seleccione la pestaña *Destinatarios adicionales*.
+.. En la columna Notificaciones, expanda la fila seleccionando la flecha.
+.. Para el nivel de notificación, selecciona *Info*.
++
+image:notifications-email-info-option.png["Esta imagen muestra la opción Notificación para Información"]
+
+
+
+

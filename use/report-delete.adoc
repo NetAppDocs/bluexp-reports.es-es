@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/report-delete.html 
+keywords: BlueXP migration reports, volume reports 
+summary: Es posible que desee eliminar un informe si contiene un error que ha corregido o si ya no necesita ese informe. 
+---
+= Eliminar un informe
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Es posible que desee eliminar un informe si contiene un error que ha corregido o si ya no necesita ese informe. Puede suprimir una o varias instancias de un informe.
+
+.Pasos
+. En la navegación izquierda de BlueXP, selecciona *Almacenamiento* > *Informes de migración*.
+. En el Panel de informes, seleccione un informe.
+. En la fila del informe, seleccione las *Acciones* … Y seleccione *Eliminar informe*.
+. Si existen varias instancias del informe, seleccione las que desee eliminar y seleccione *Eliminar*.
++
+image:report-delete-multiple.png["Esta imagen muestra la página Suprimir que permite eliminar varios informes"]
+
+. Seleccione *Eliminar* para confirmar la eliminación.
+

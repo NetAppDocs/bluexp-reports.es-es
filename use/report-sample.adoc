@@ -1,0 +1,66 @@
+---
+sidebar: sidebar 
+permalink: use/report-sample.html 
+keywords: BlueXP migration reports, volume reports 
+summary: Mire un informe de ejemplo y aprenda lo que muestran los datos. 
+---
+= Vea un informe de muestra: El informe Volumes
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Mire un informe de volúmenes de muestra y aprenda lo que se muestran los datos.
+
+.Pasos
+. En la navegación izquierda de BlueXP, selecciona *Almacenamiento* > *Informes de migración*.
+. Para mostrar el informe, seleccione la opción *Acciones* ... A la derecha y seleccione *Ver informe*.
++
+image:sample-volumes-top.png["Esta imagen muestra la parte superior de un informe de volúmenes de ejemplo"]
+
++
+image:sample-volumes-middle.png["Esta imagen muestra el centro de un informe de volúmenes de muestra"]
+
++
+image:sample-volumes-middle-b.png["Esta imagen muestra la siguiente sección del centro de un informe de volúmenes de muestra"]
+
+. Para saber qué significan las columnas, pase el ratón sobre parte de la información.
+. Para ver el informe en formato CSV, seleccione la opción *Acciones* ... A la derecha y seleccione *Ver PDF*.
+. Consulte la información del informe:
++
+** *Máximo* > *Profundidad total*: El mayor número de subdirectorios anidados dentro de un directorio en el volumen. En el ejemplo, directory/subdirectory/subdirectory2, la profundidad es 2.
+** *Máximo* > *Anchura Máxima Total*: El mayor número de elementos en los directorios del volumen. Un elemento es un archivo, subdirectorio, enlace simbólico o enlace físico.
+** *Máximo* > *Ruta más larga*: La ruta de subdirectorio más larga más el nombre del archivo en el volumen.
+** *Máximo* > *Directorios*: El número de directorios del directorio más grande.
+** *Máximo* > *Archivos*: El número de archivos del directorio más grande. Puede haber otro directorio con más archivos, pero no es el directorio más grande del árbol.
+** *Tiempo de acceso*: Las últimas veces que se accedió a los archivos.
+** *Cambio de tiempo*: La última vez que se accedió a los metadatos del archivo, por ejemplo, los permisos.
+** *Tiempo de modificación*: Las últimas veces que se modificó el contenido de los archivos.
+** *Top 5 razones de error*: Las 5 razones de error principales encontradas durante el escaneo de volumen. Por ejemplo, un informe puede contener errores relacionados con permisos de acceso inexistentes o incorrectos o los archivos que faltan. Este tipo de error puede afectar al análisis de todo el conjunto de archivos y directorios. Después de ver la lista de errores, puede solucionar los problemas y volver a ejecutar el informe.
+** *Top 5 Directorios y Archivos*: Los directorios que tienen el 5 mayor número de directorios o los mayores tamaños de archivo en el volumen.
+
+
+. Para volver al Panel de informes, seleccione *Informes* en las rutas de navegación.
+
+
+
+
+=== Ver la información de distribución de informes
+
+Es posible que necesite saber cómo han cambiado los datos de una fecha de informe a otra. Para ello, utilice los gráficos de distribución de informes.
+
+La información de distribución de informes sólo está disponible en los informes finalizados y sólo si hay al menos dos informes finalizados.
+
+.Pasos
+. En la navegación izquierda de BlueXP, selecciona *Almacenamiento* > *Informes de migración*.
+. Se selecciona un informe.
+. En el menú Acciones de la derecha, selecciona *Ver distribución de informes*.
+. Vea la distribución de informes:
++
+** *Distribución en el tiempo (Tamaño Total)*: El tamaño del volumen en diferentes fechas.
+** *Distribución a lo largo del tiempo (Total de elementos)*: El número de archivos, carpetas, enlaces y directorios en diferentes fechas.
+
+
+

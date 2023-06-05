@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: get-started/intro.html 
+keywords: how BlueXP migration reports works, reports, bluexp 
+summary: Con el servicio de informes de migración de BlueXP, puedes identificar rápidamente el número de archivos, directorios, enlaces simbólicos, enlaces duros, profundidad y amplitud de los árboles de sistemas de archivos, los archivos más grandes, etc. en tu entorno de almacenamiento. 
+---
+= Obtén más información sobre los informes de migración de BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/concepts/
+
+
+[role="lead"]
+Cuando se está preparando para mover, migrar o clonar datos del sistema de archivos, primero tiene que determinar los que tiene. Con el servicio de informes de migración de BlueXP, puedes identificar rápidamente el número de archivos, directorios, enlaces simbólicos, enlaces duros, profundidad y amplitud de los árboles de sistemas de archivos, los archivos más grandes, etc. en tu entorno de almacenamiento. Con esta información, sabrá con anticipación que el proceso que desea utilizar puede manejar su inventario de manera eficiente y exitosa.
+
+El servicio de informes de migración de BlueXP muestra información para los entornos de trabajo NFS y AWS S3.
+
+
+
+== Beneficios de los informes de migración de BlueXP
+
+El servicio de informes de migración de BlueXP ofrece las siguientes ventajas:
+
+* Proporciona un proceso sencillo para obtener el estado de protección de datos de su entorno de trabajo
+* Ofrece un entorno de almacenamiento
+* Reduce el tiempo empleado en identificar necesidades de almacenamiento adicionales
+
+
+
+
+== Todo lo que puedes hacer con los informes de migración de BlueXP
+
+Mediante los informes de migración de BlueXP, puedes conseguir lo siguiente:
+
+* Crear informes.
+* Identifique cómo han cambiado los datos de una fecha de informe a otra mediante los gráficos de distribución de informes.
+* Active las notificaciones por correo electrónico sobre la generación de informes.
+* Eliminar informes.
+
+
+
+
+== Coste
+
+NetApp no le cobra por usar el servicio.
+
+
+
+== Licencia
+
+No se requiere un archivo de licencia de NetApp (NLF).

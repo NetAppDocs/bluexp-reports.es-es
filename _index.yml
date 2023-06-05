@@ -1,0 +1,39 @@
+---
+indexpage:
+  lead: Cuando se está preparando para mover, migrar o clonar datos del sistema de
+    archivos, primero tiene que determinar los que tiene. Con el servicio de informes
+    de migración de BlueXP, puedes identificar rápidamente el número de archivos,
+    directorios, enlaces simbólicos, enlaces duros, profundidad y amplitud de los
+    árboles de sistemas de archivos, los archivos más grandes, etc. en tu entorno
+    de almacenamiento.
+  tiles:
+  - title: Manos a la obra
+    links:
+    - title: Obtén más información sobre los informes de migración de BlueXP
+      url: "/get-started/intro.html"
+    - title: Novedades en los informes de migración de BlueXP
+      url: "/release-notes/whats-new.html"
+    - title: Inicio rápido
+      url: "/get-started/quick-start.html"
+    - title: Requisitos previos
+      url: "/get-started/prerequisites.html"
+    - title: Inicia sesión en los informes de migración de BlueXP
+      url: "/get-started/login.html"
+    - title: PREGUNTAS FRECUENTES
+      url: "/get-started/faq.html"
+  - title: Utiliza los informes de migración de BlueXP
+    links:
+    - title: Descripción general de los informes
+      url: "/use/report-overview.html"
+    - title: Cree un informe
+      url: "/use/report-create.html"
+    - title: Ver una muestra de informe
+      url: "/use/report-sample.html"
+    - title: Eliminar un informe
+      url: "/use/report-delete.html"
+  - title: Blogs y comunidad
+    links:
+    - title: Comunidad de NetApp
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: Seminarios web sobre el cloud
+      url: https://bluexp.netapp.com/events

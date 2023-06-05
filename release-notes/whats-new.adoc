@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: release-notes/whats-new.html 
+keywords: 'reports what"s new, bluexp' 
+summary: Con el nuevo servicio de informes de migración de BlueXP, puedes identificar rápidamente el número de archivos, directorios, enlaces simbólicos, enlaces físicos, profundidad y amplitud de los árboles de sistemas de archivos, los archivos más grandes, etc. en tu entorno de almacenamiento. 
+---
+= Lo nuevo
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Descubre las novedades en los informes de migración de BlueXP.
+
+
+
+== 02 de junio de 2023
+
+Con el nuevo servicio de informes de migración de BlueXP, puedes identificar rápidamente el número de archivos, directorios, enlaces simbólicos, enlaces físicos, profundidad y amplitud de los árboles de sistemas de archivos, los archivos más grandes, etc. en tu entorno de almacenamiento.
+
+Con esta información, sabrá con anticipación que el proceso que desea utilizar puede manejar su inventario de manera eficiente y exitosa.
+
+link:https://docs.netapp.com/us-en/bluexp-reports/get-started/intro.html["Obtén más información sobre los informes de migración de BlueXP"].
