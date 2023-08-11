@@ -16,14 +16,14 @@ Aquí tienes una descripción general de los pasos necesarios para empezar a uti
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Uno"] Revise los requisitos previos
 [role="quick-margin-para"]
-link:../get-started/prerequisites.html["Asegúrese de que su entorno cumpla estos requisitos"^].
+link:../get-started/prerequisites.html["Asegúrese de que su entorno cumpla estos requisitos"].
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["Tres"] El futuro
 [role="quick-margin-para"]
 Esto es lo que podría hacer a continuación.
 
 [role="quick-margin-list"]
-* link:../use/report-create.html["Cree un informe"^].
-* link:../use/report-sample.html["Ver una muestra de informe"^].
-* link:../use/report-delete.html["Eliminar un informe"^].
+* link:../use/report-create.html["Cree un informe"].
+* link:../use/report-sample.html["Ver una muestra de informe"].
+* link:../use/report-delete.html["Eliminar un informe"].
 
