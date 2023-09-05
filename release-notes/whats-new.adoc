@@ -16,6 +16,12 @@ Descubre las novedades en los informes de migración de BlueXP.
 
 
 
+== 03 de septiembre de 2023
+
+El servicio actualizado de informes de migración de BlueXP proporciona actualizaciones a los datos de los informes. Los informes ahora incluyen la capacidad asignada.
+
+
+
 == 02 de junio de 2023
 
 Con el nuevo servicio de informes de migración de BlueXP, puedes identificar rápidamente el número de archivos, directorios, enlaces simbólicos, enlaces físicos, profundidad y amplitud de los árboles de sistemas de archivos, los archivos más grandes, etc. en tu entorno de almacenamiento.

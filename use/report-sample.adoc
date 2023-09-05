@@ -16,9 +16,8 @@ Mire un informe de volúmenes de muestra y aprenda lo que se muestran los datos.
 
 .Pasos
 . En la navegación izquierda de BlueXP, selecciona *Almacenamiento* > *Informes de migración*.
-. Para mostrar el informe, seleccione la opción *Acciones* ... A la derecha y seleccione *Ver informe*.
 +
-image:sample-volumes-top.png["Esta imagen muestra la parte superior de un informe de volúmenes de ejemplo"]
+image:report-sample-volumes-top-total-items.png["Esta imagen muestra la parte superior de un informe de volúmenes de ejemplo y la pestaña Total de elementos"]
 
 +
 image:sample-volumes-middle.png["Esta imagen muestra el centro de un informe de volúmenes de muestra"]
@@ -27,7 +26,17 @@ image:sample-volumes-middle.png["Esta imagen muestra el centro de un informe de 
 image:sample-volumes-middle-b.png["Esta imagen muestra la siguiente sección del centro de un informe de volúmenes de muestra"]
 
 . Para saber qué significan las columnas, pase el ratón sobre parte de la información.
-. Para ver el informe en formato CSV, seleccione la opción *Acciones* ... A la derecha y seleccione *Ver PDF*.
+. Seleccione cualquiera de las siguientes opciones:
++
+** Para ver y descargar un archivo PDF del informe, seleccione la opción *Acciones* ... Y seleccione *Descargar informe*.
+** Para generar otra instancia del mismo informe, seleccione la fila del informe y, a la derecha, seleccione *Añadir informe*.
+** Para mostrar información sobre todos los elementos, selecciona la pestaña *Total de elementos*.
+** Para mostrar solo la información de capacidad asignada, seleccione la pestaña *Capacidad asignada*.
++
+image:report-sample-volumes-top-capacity.png["Esta imagen muestra la parte superior de un informe de volúmenes de muestra y la pestaña Capacidad asignada"]
+
+
+
 . Consulte la información del informe:
 +
 ** *Máximo* > *Profundidad total*: El mayor número de subdirectorios anidados dentro de un directorio en el volumen. En el ejemplo, directory/subdirectory/subdirectory2, la profundidad es 2.
@@ -52,6 +61,8 @@ image:sample-volumes-middle-b.png["Esta imagen muestra la siguiente sección del
 Es posible que necesite saber cómo han cambiado los datos de una fecha de informe a otra. Para ello, utilice los gráficos de distribución de informes.
 
 La información de distribución de informes sólo está disponible en los informes finalizados y sólo si hay al menos dos informes finalizados.
+
+image:report-sample-volumes-distribution.png["Esta imagen muestra la parte superior de un informe de distribución de volúmenes de ejemplo"]
 
 .Pasos
 . En la navegación izquierda de BlueXP, selecciona *Almacenamiento* > *Informes de migración*.

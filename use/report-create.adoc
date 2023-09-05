@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/report-create.html 
 keywords: BlueXP migration reports, volume reports 
-summary: Con el servicio de informes de migración de BlueXP, puedes identificar rápidamente el número de archivos, directorios, enlaces simbólicos, enlaces duros, profundidad y amplitud de los árboles de sistemas de archivos, los archivos más grandes, etc. en tu entorno de almacenamiento. 
+summary: Con el servicio de informes de migración de BlueXP, puedes crear un informe de volúmenes que muestre el número de archivos, archivos en directorios, enlaces simbólicos, enlaces físicos y tamaños de archivo más grandes, capacidad asignada y más. 
 ---
 = Cree un informe
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: Con el servicio de informes de migración de BlueXP, puedes identificar
 
 
 [role="lead"]
-Puede crear un informe de volúmenes que muestre el número de archivos, los archivos en directorios, los enlaces simbólicos, los enlaces duros, los tamaños de archivo más grandes, y mucho más.
+Puede crear un informe de volúmenes que muestre el número de archivos, los archivos en directorios, los enlaces simbólicos, los enlaces duros, los tamaños de archivo más grandes, capacidad asignada y más.
 
 Cada vez que creas un informe, el servicio de informes de migración de BlueXP escanea la ruta y compila los datos. Con la misma definición de informe, puede tener varias instancias de ese informe.
 
@@ -47,6 +47,23 @@ Si desea activar un entorno, consulte https://docs.netapp.com/us-en/cloud-manage
 El servicio de informes de migración de BlueXP genera el informe y lo enumera en la lista de informes.
 
 . Para mostrar el informe, seleccione la opción *Acciones* ... A la derecha y seleccione *Ver informe*.
-. Para descargar un archivo PDF del informe, seleccione la opción *Acciones* ... Y seleccione *Descargar informe*.
-. Para generar otra instancia del mismo informe, seleccione la fila del informe y, a la derecha, seleccione *Añadir informe*.
++
+image:report-sample-volumes-top-total-items.png["Esta imagen muestra la parte superior de un informe de volúmenes de ejemplo y la pestaña Total de elementos"]
+
+. Seleccione cualquiera de las siguientes opciones:
++
+** Para ver y descargar un archivo PDF del informe, seleccione la opción *Acciones* ... Y seleccione *Descargar informe*.
+** Para generar otra instancia del mismo informe, seleccione la fila del informe y, a la derecha, seleccione *Añadir informe*.
+** Para mostrar información sobre todos los elementos, selecciona la pestaña *Total de elementos*.
+** Para mostrar solo la información de capacidad asignada, seleccione la pestaña *Capacidad asignada*.
+** Para ver el informe de distribución, en el menú Acciones de la derecha, seleccione *Ver distribución de informes*.
++
+
+TIP: La información de distribución de informes sólo está disponible en los informes finalizados y sólo si hay al menos dos informes finalizados.
+
+
+
++
+image:report-sample-volumes-distribution.png["Esta imagen muestra la parte superior de un informe de distribución de volúmenes de ejemplo"]
+
 

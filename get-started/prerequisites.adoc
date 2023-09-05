@@ -18,6 +18,7 @@ El servicio de informes de migración de BlueXP tiene los siguientes requisitos 
 
 * Acceso a las LIF de datos en Cloud Volumes ONTAP Azure NetApp Files, Amazon FSx para NetApp ONTAP o entornos de trabajo on-premises
 * Uso de ONTAP 9,7 o posterior
+* Política de exportación configurada en ONTAP. Una política de exportación define las reglas de acceso al volumen.
 * El conector BlueXP se configura en NetApp BlueXP para la LIF de administración del clúster. La LIF de administración de clústeres es una interfaz de red virtual que le permite realizar operaciones de gestión del clúster. Consulta la documentación de BlueXP para https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Configura el conector de BlueXP"].
 * Estándar https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["Requisitos de BlueXP"]
 
