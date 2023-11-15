@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: 'reports what"s new, bluexp' 
-summary: Con el nuevo servicio de informes de migración de BlueXP, puedes identificar rápidamente el número de archivos, directorios, enlaces simbólicos, enlaces físicos, profundidad y amplitud de los árboles de sistemas de archivos, los archivos más grandes, etc. en tu entorno de almacenamiento. 
+summary: Descubre las novedades en los informes de migración de BlueXP. 
 ---
 = Lo nuevo
 :hardbreaks:
@@ -13,6 +13,12 @@ summary: Con el nuevo servicio de informes de migración de BlueXP, puedes ident
 
 [role="lead"]
 Descubre las novedades en los informes de migración de BlueXP.
+
+
+
+== 13 de noviembre de 2023
+
+Ahora puede crear informes para los volúmenes que usan el protocolo SMB/CIFS.
 
 
 

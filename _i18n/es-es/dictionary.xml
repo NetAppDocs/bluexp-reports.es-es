@@ -96,7 +96,6 @@
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">Limitaciones</block>
   <block id="fa62285d299fafbecd9c02da5fa530c6" category="summary">Con el nuevo servicio de informes de migración de BlueXP, puedes identificar rápidamente el número de archivos, directorios, enlaces simbólicos, enlaces físicos, profundidad y amplitud de los árboles de sistemas de archivos, los archivos más grandes, etc. en tu entorno de almacenamiento.</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">Lo nuevo</block>
-  <block id="0a315dc6821559d103066780c255612b" category="paragraph">Descubre las novedades en los informes de migración de BlueXP.</block>
   <block id="2962158ebf7a34c626b48db40bc051ec" category="section-title">02 de junio de 2023</block>
   <block id="d792454ca1593678a5c636322be98be7" category="paragraph">Con esta información, sabrá con anticipación que el proceso que desea utilizar puede manejar su inventario de manera eficiente y exitosa.</block>
   <block id="167aa714a6db028bb8fc39b77f1185ef" category="inline-link-macro">Obtén más información sobre los informes de migración de BlueXP</block>
@@ -371,4 +370,7 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">Obtenga soporte para un servicio de archivos de proveedores de cloud</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Para obtener soporte técnico relacionado con un servicio de archivos del proveedor de cloud, su infraestructura o cualquier solución que utilice el servicio, consulte «Obtener ayuda» en la documentación de BlueXP para ese producto.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Para recibir soporte técnico específico sobre BlueXP y sus soluciones y servicios de almacenamiento, use las opciones de soporte descritas a continuación.</block>
+  <block id="3f3fab9b522f231cf00b909c6155b3d4" category="summary">Descubre las novedades en los informes de migración de BlueXP.</block>
+  <block id="35214f9b3df21ed35db22cb765a9b147" category="section-title">13 de noviembre de 2023</block>
+  <block id="c14af667110ffb482c0adaaed623dbe2" category="paragraph">Ahora puede crear informes para los volúmenes que usan el protocolo SMB/CIFS.</block>
 </blocks>
